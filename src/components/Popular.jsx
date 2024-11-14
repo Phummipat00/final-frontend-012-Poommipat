@@ -19,7 +19,7 @@ function Popular() {
 
           <div className="card-content">
             <p className="card-sub-title">Lorem ipsum dolor sit.</p>
-            <h2 className="card-title">Electric Iron</h2>
+            <h2 className="card-title">FNFN</h2>
             <div className="star">
               <IoStar />
               <IoStar />
